@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
