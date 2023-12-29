@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm vaclavak</h1>
-<h3 align="center">Java developer...</h3>
+<h3 align="center">I am a java developer</h3>
 
 - 🔭 I’m currently working on [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox)
 
