@@ -3,7 +3,9 @@
 <h1 align="center">I'm vaclavak</h1>
 <h3 align="center">A java developer</h3>
 
-- 🔭 I’m currently working on [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox),[Textmod](https://modrinth.com/mod/textmod)
+- 🔭 I’m currently working on:
+-  [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox)
+-  [Textmod](https://modrinth.com/mod/textmod)
 
 <p align="left">
 </p>
