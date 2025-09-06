@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on:
 -  [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox)
 -  [Textmod](https://modrinth.com/mod/textmod)
+-  [Skyquill](https://github.com/vaclavak/SkyQuill)
 
 <p align="left">
 </p>
