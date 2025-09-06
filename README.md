@@ -4,7 +4,6 @@
 <h3 align="center">A java developer</h3>
 
 - 🔭 I’m currently working on:
--  [ConsoleToolbox](https://github.com/vaclavak/ConsoleToolbox)
 -  [Textmod](https://modrinth.com/mod/textmod)
 -  [Skyquill](https://github.com/vaclavak/SkyQuill)
 
